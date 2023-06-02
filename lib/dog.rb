@@ -1,5 +1,5 @@
 require 'active_record'
 
-class Dog < ActiveRecord::Base
+class Dog < ActiveRecord::Base # methods 
     
 end
